@@ -10,10 +10,8 @@ use this function to get relation image
 
 ## Installation
 
-add following line to the bottom of app/config/loader.php
-include APP_PATH . 'app/config/image_config.php';
-
 And Copy this files
+
 ```yaml
 app/config/image_config.php
 app/library/Image.php
